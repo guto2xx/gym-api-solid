@@ -46,5 +46,5 @@ model Gym {
 
   checkIns CheckIn[]
 
-  @@map("gyns")
+  @@map("gyms")
 }
